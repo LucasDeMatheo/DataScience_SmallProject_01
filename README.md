@@ -1,6 +1,6 @@
 # DataScience_SmallProject_01
 
-![CoverImage](https://user-images.githubusercontent.com/10830272/155902320-de6bbfa2-581d-4d13-b3e6-c142bd38948b.png)
+![CoverImage](https://user-images.githubusercontent.com/10830272/155903593-61a4d488-0382-424c-b40f-83f12ee2e36b.png)
 
 This mini-project can be used to generate data about individuals, including name, surname, address (with latitude and longitude), profession and monthly income in a completely random way. Serving Data Visualization projects and other projects in the Data Science area. 
 
