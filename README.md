@@ -6,6 +6,7 @@ The objective of this mini-project was to show the use of three tools that I usu
 **Initial File:**
   - Address_Names_generator.xlsx | Program that generates random data  
   - Generates the Address_Names_generator_1.csv  
+
 **Second File:**    
   - Geolocation AddressGenerator.ipynb | Jupyter Notebook file which uses a geolocation API to enrich the data  
   - Generates the Address_Names_generator_1_locations.csv
