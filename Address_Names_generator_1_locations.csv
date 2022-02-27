@@ -1,0 +1,401 @@
+ID,Gender,Name,Surname,Address,Profession,Income,Latitude,Longitude
+1,Man,Bernardo,Jocome Ormo,"Rua Teixeira de Melo, 23",Singer,1756.769605,-22.9866645,-43.1987363
+2,Woman,Amanda,Barbosa,"Rua Joana Angelica, 158",Singer,1797.975926,-22.9832734,-43.2049026
+3,Woman,Maria Cecília,Brunelli Pasti Zardo,"Rua Canning, 68",Biomedic,2191.951183,-22.9848833,-43.1951764
+4,Man,Afonso,Abreu,"Rua Paul Redfern, 56",Nurse,2160.014892,-22.9848306,-43.2142818
+5,Man,Ravi,Oliveira Alves,"Rua Anibal de Mendonça, 51",Photographer,3208.608267,-22.9828334,-43.2112609
+6,Woman,Camila,Raposo Valle,"Rua Prudente de Morais, 1620",Florist,2310.662726,-22.984543199999997,-43.21215795142644
+7,Man,Theo,Torres Sodre,"Av. Epitácio Pessoa, 730",Computer engineer,6510.105724,-22.9806246,-43.2111012
+8,Woman,Sandra,Jocome Silva,"Av. Henrique Dumont, 122",Designer,9326.478776,-22.9808905,-43.2132616
+9,Woman,Camila,Toledo Zoppi Nucci,"Rua Maria Quiteria, 95",Architect,8611.781841,-22.9863847,-43.2072464
+10,Woman,Renata,Herzog Kruger,"Rua Almirante Saddock de Sá, 105",Computer engineer,17544.70498,-22.9800821,-43.2012892
+11,Woman,Camila,de Oliveira,"Rua Maria Quiteria, 47",Private Driver,1485.064064,-22.9863847,-43.2072464
+12,Woman,Maria Alice,Kiefer Lapa,"Rua Maria Quiteria, 19",Computer engineer,5884.542998,-22.98565165,-43.207362307065694
+13,Man,Mateus,Jocome Zoppi,"Rua Canning, 33",Vet,5979.790299,-22.9848833,-43.1951764
+14,Man,Antônio,Ventura Torres,"Rua Nascimento Silva, 276",Journalist,6768.6067,-22.9823219,-43.2004675
+15,Woman,Maria,Sandrini Tereza,"Rua Nascimento Silva, 475",Electrical engineer,7919.607248,-22.9823219,-43.2004675
+16,Man,Carlos,Ivonete Dalto,"Rua Jangadeiros, 40",Biologist,1637.390586,-22.9848154,-43.1968866
+17,Woman,Jéssica,Zacchi Avila Nucci,"Rua Gomes Carneiro, 86",Teacher,3952.783898,-22.9857245,-43.1965041
+18,Man,Bruno,Bravato,"Rua Joana Angelica, 221",Pharmaceutical,6754.203345,-22.9832734,-43.2049026
+19,Woman,Maitê,Pozzol Vieira,"Rua Gomes Carneiro, 58",Travel agent,2344.737375,-22.9857245,-43.1965041
+20,Man,Bernardo,Oliveira Amorim,"Rua Paul Redfern, 56",Electronic engineer,8690.100732,-22.9848306,-43.2142818
+21,Man,Samuel,Espinosa Rossi,"Rua Anibal de Mendonça, 164",Electrical engineer,7981.342401,-22.9828334,-43.2112609
+22,Woman,Beatriz,Eigenheer Espinosa,"Rua Garcia D'Ávila, 65",Florist,2632.425608,-22.9862279,-43.2093612
+23,Man,José,Almeida Del Puppo,"Rua Canning, 31",Designer,7091.110663,-22.9848833,-43.1951764
+24,Man,João Miguel,de Vasconcelos,"Av. Epitácio Pessoa, 730",Electrical engineer,9698.767721,-22.9806246,-43.2111012
+25,Woman,Laura,Brunelli Martins,"Rua Barão da Torre, 665",Businessperson,16448.63771,-22.9831351,-43.2055487
+26,Woman,Renata,Perin,"Rua Prudente de Morais, 589",Counter,8170.590616,-22.9856277,-43.1994618
+27,Man,Bruno,Calmon Lapa,"Rua Barão da Torre, 266",Civil engineer,9100.599421,-22.9831351,-43.2055487
+28,Man,Davi,Weiss Sagres,"Rua Redentor, 19",Singer,4164.839533,-22.9822798,-43.2117176
+29,Man,José,Kiefer Nicoli,"Rua Jangadeiros, 10",Electronic engineer,6353.612608,-22.9848154,-43.1968866
+30,Man,Theo,di Barrel Justo,"Av. Epitácio Pessoa, 1084",Nurse,2212.874592,-22.9806246,-43.2111012
+31,Woman,Maria Eduarda,Bravato,"Av. Vieira Souto, 494",Writer,2363.578538,-22.9869591,-43.1974684
+32,Woman,Isabella,Xavier Ormo Sodre,"Rua Teixeira de Melo, 23",Florist,1312.72252,-22.9866645,-43.1987363
+33,Woman,Maria Cecília,Lapa Walker,"Rua Barão de Jaguaripe, 175",Counter,13522.9064,-22.9814293,-43.207694
+34,Woman,Valentina,de Vasconcelos,"Rua Prudente de Morais, 1474",Counter,23242.60822,-22.9856646,-43.1971658
+35,Woman,Maria Julia,Sandrini,"Rua Barão de Jaguaripe, 175",Youtuber,779.2580252,-22.9814293,-43.207694
+36,Woman,Valentina,Torres Avila,"Rua Alberto de Campos, 88",Architect,8802.339553,-22.9811559,-43.2027176
+37,Man,Miguel,Ramos Mello,"Rua Gorceix, 28",Businessperson,14133.18743,-22.9811921,-43.2018481
+38,Woman,Maitê,Conte,"Rua Paul Redfern, 19",Nutritionist,6195.544439,-22.9848306,-43.2142818
+39,Man,Heitor,Calil Ulina,"Rua Barão de Jaguaripe, 304",Architect,9532.270917,-22.9814293,-43.207694
+40,Woman,Maria Julia,Tereza,"Rua Joana Angelica, 116",Freelancer,9098.219828,-22.9832734,-43.2049026
+41,Woman,Renata,Brito de Vasconcelos,"Rua Jangadeiros, 14",Computer engineer,6486.333342,-22.9848154,-43.1968866
+42,Man,Miguel,da Cunha Bernardes Del Puppo,"Rua Almirante Saddock de Sá, 105",Gamer,798.2303634,-22.9800821,-43.2012892
+43,Woman,Lorena,Teixeira,"Rua Jangadeiros, 33",Private Driver,1984.153093,-22.9848154,-43.1968866
+44,Woman,Lorena,Gaspar Lapa,"Rua Almirante Saddock de Sá, 2",Designer,9656.03142,-22.9800821,-43.2012892
+45,Man,João,Jambo Ivie,"Rua Nascimento Silva, 250",Youtuber,686.1187087,-22.9823219,-43.2004675
+46,Man,João,Sette Abreu,"Rua Paul Redfern, 14",Nutritionist,4386.369868,-22.9848306,-43.2142818
+47,Woman,Maria Julia,Mello Lessa,"Rua Barão da Torre, 591",Gamer,822.5203834,-22.9831351,-43.2055487
+48,Man,Leonardo,Lage Toledo,"Rua Anibal de Mendonça, 51",Nutritionist,4839.152444,-22.9828334,-43.2112609
+49,Man,Ravi,Freire,"Av. Epitácio Pessoa, 1084",Teacher,2718.579225,-22.9806246,-43.2111012
+50,Woman,Júlia,Salles Campos,"Av. Henrique Dumont, 118",Vet,12193.71681,-22.9808905,-43.2132616
+51,Woman,Sophia,Rui Perin,"Rua Paul Redfern, 14",Architect,4740.20458,-22.9848306,-43.2142818
+52,Man,Miguel,Campos,"Rua Prudente de Morais, 1620",Singer,2285.439287,-22.984543199999997,-43.21215795142644
+53,Man,Isaac,Espinosa Abreu Candido,"Rua Alberto de Campos, 71",Architect,4850.471991,-22.9811559,-43.2027176
+54,Woman,Maria Eduarda,de Vasconcelos Teixeira Lozano,"Rua Canning, 10",Freelancer,5737.836997,-22.9848833,-43.1951764
+55,Man,Bruno,Esteves Zuca,"Rua Jangadeiros, 40",Counter,7185.035288,-22.9848154,-43.1968866
+56,Man,Samuel,de Vasconcelos Cassaro,"Rua Barão de Jaguaripe, 225",Doctor,7309.633535,-22.9814293,-43.207694
+57,Woman,Alice,Johansen Rui,"Rua Prudente de Morais, 336",Researcher,4112.49062,-22.9856277,-43.1994618
+58,Woman,Maria,Bernardes Alves Lage,"Rua Nascimento Silva, 447",Singer,1707.663702,-22.9823219,-43.2004675
+59,Woman,Amanda,Idalino,"Rua Barão de Jaguaripe, 332",Youtuber,2587.08872,-22.9814293,-43.207694
+60,Man,Afonso,Eigenheer Barbosa,"Av. Henrique Dumont, 118",Private Driver,1028.706536,-22.9808905,-43.2132616
+61,Man,Francisco,Jocome,"Rua Jangadeiros, 33",Pharmaceutical,5936.83222,-22.9848154,-43.1968866
+62,Woman,Heloísa,Esteves Zacchi,"Rua Alberto de Campos, 12",Computer engineer,18851.47521,-22.9803664,-43.19917822734273
+63,Woman,Maria Eduarda,Lono,"Rua Gorceix, 11",Lawyer,21357.4414,-22.9811921,-43.2018481
+64,Man,Antônio,Meirelles,"Av. Vieira Souto, 572",Travel agent,2466.406415,-22.9869591,-43.1974684
+65,Man,Afonso,Vilar,"Av. Epitácio Pessoa, 1234",Doctor,9980.842404,-22.9806246,-43.2111012
+66,Woman,Fernanda,Couto Couto,"Av. Vieira Souto, 288",Pharmaceutical,9932.169596,-22.98626,-43.20228681969405
+67,Man,Heitor,Zuca Nunes,"Rua Garcia D'Ávila, 113",Freelancer,6158.819408,-22.9862279,-43.2093612
+68,Man,Bruno,Mace Nicoli Gaspar,"Av. Henrique Dumont, 118",Electrical engineer,13451.99418,-22.9808905,-43.2132616
+69,Woman,Sandra,Fabre,"Rua Anibal de Mendonça, 35",Teacher,2343.374844,-22.9828334,-43.2112609
+70,Man,Bruno,Nucci Fabre,"Av. Henrique Dumont, 122",Architect,7245.895281,-22.9808905,-43.2132616
+71,Man,Guilherme,de Vasconcelos Abreu,"Av. Henrique Dumont, 118",Writer,2769.34198,-22.9808905,-43.2132616
+72,Man,José,Del Puppo Gaspar,"Av. Vieira Souto, 216",Nutritionist,6329.244165,-22.986284949999998,-43.200170563047806
+73,Woman,Maria Julia,Ramos di Barrel,"Rua Garcia D'Ávila, 156",Private Driver,1795.246385,-22.9862279,-43.2093612
+74,Woman,Amanda,Salles Olsen,"Rua Alberto de Campos, 88",Nutritionist,3771.975831,-22.9811559,-43.2027176
+75,Woman,Alice,Pazini Brito,"Rua Barão de Jaguaripe, 225",Florist,1435.241924,-22.9814293,-43.207694
+76,Man,Carlos,Toledo,"Rua Teixeira de Melo, 81",Freelancer,6892.189608,-22.9866645,-43.1987363
+77,Woman,Renata,Sandrini,"Av. Epitácio Pessoa, 698",Designer,5693.607979,-22.9806246,-43.2111012
+78,Man,Arthur,Herzog,"Rua Gorceix, 30",Biologist,2555.149461,-22.9811921,-43.2018481
+79,Woman,Heloísa,Breda Oliveira,"Rua Garcia D'Ávila, 110",Model,5618.128944,-22.9862279,-43.2093612
+80,Man,Lourenço,Zacchi Klein Bravato,"Rua Nascimento Silva, 250",Writer,2014.902241,-22.9823219,-43.2004675
+81,Man,Gael,Pelegrine Pasti,"Rua Paul Redfern, 27",Freelancer,12455.95655,-22.9848306,-43.2142818
+82,Man,Gael,Zanoni Novaes,"Rua Nascimento Silva, 475",Teacher,2572.19992,-22.9823219,-43.2004675
+83,Woman,Maria Clara,Calil Salles,"Rua Garcia D'Ávila, 113",Writer,2620.837917,-22.9862279,-43.2093612
+84,Woman,Bruna,Breda,"Rua Garcia D'Ávila, 156",Architect,11436.3779,-22.9862279,-43.2093612
+85,Man,Bernardo,Praba Candido,"Rua Anibal de Mendonça, 100",Civil engineer,12304.06816,-22.9828334,-43.2112609
+86,Woman,Sophia,Freire Mozer,"Rua Alberto de Campos, 191",Writer,2355.679872,-22.9811559,-43.2027176
+87,Woman,Sandra,Walker Nunes Klein,"Rua Joana Angelica, 221",Architect,11647.34982,-22.9832734,-43.2049026
+88,Man,Pedro,da Cunha de Vasconcelos,"Rua Anibal de Mendonça, 100",Electrical engineer,8476.027565,-22.9828334,-43.2112609
+89,Man,Bruno,Neto Candido,"Rua Alberto de Campos, 191",Counter,12450.45561,-22.9811559,-43.2027176
+90,Woman,Maria Eduarda,Del Puppo Vieira Novaes,"Rua Gorceix, 30",Architect,9646.002345,-22.9811921,-43.2018481
+91,Woman,Heloísa,Campos Freitas,"Rua Jangadeiros, 40",Gamer,1496.53632,-22.9848154,-43.1968866
+92,Woman,Maitê,Trevis Rossi,"Rua Visconde de Pirajá, 699",Doctor,8660.461011,-22.9838381,-43.2135413
+93,Woman,Sophia,Campos,"Rua Alberto de Campos, 12",Self-employed,8059.288424,-22.9803664,-43.19917822734273
+94,Woman,Maria Clara,Machado,"Rua Gomes Carneiro, 86",Youtuber,1791.754062,-22.9857245,-43.1965041
+95,Man,Gael,Alves Vilar Valloto,"Rua Maria Quiteria, 95",Nutritionist,3902.765941,-22.9863847,-43.2072464
+96,Man,Leonardo,Toledo Almeida Muniz,"Rua Redentor, 63",Self-employed,8247.167322,-22.9822798,-43.2117176
+97,Man,Pedro,Zanoni Taylor Silva,"Rua Anibal de Mendonça, 134",Computer engineer,5816.869535,-22.9828334,-43.2112609
+98,Woman,Lorena,Novaes,"Rua Prudente de Morais, 336",Lawyer,13485.80785,-22.9856277,-43.1994618
+99,Woman,Maria,Breda,"Rua Almirante Saddock de Sá, 105",Travel agent,2883.875246,-22.9800821,-43.2012892
+100,Woman,Lorena,Couto da Cunha,"Av. Henrique Dumont, 122",Biologist,2156.294634,-22.9808905,-43.2132616
+101,Man,Isaac,Pozzol Sodre,"Rua Joana Angelica, 228",Private Driver,1215.463207,-22.9832734,-43.2049026
+102,Man,Bernardo,Johansen Ventura Johansen,"Rua Alberto de Campos, 65",Writer,1603.185763,-22.9811559,-43.2027176
+103,Man,José,Herzog,"Rua Barão de Jaguaripe, 199",Freelancer,6186.296974,-22.9814293,-43.207694
+104,Woman,Júlia,Brunelli Taylor Ivie,"Rua Anibal de Mendonça, 99",Youtuber,2663.316332,-22.9828334,-43.2112609
+105,Man,Heitor,Assis,"Rua Barão da Torre, 42",Model,3395.15829,-22.9831351,-43.2055487
+106,Man,Mateus,Taylor Perin,"Rua Joana Angelica, 158",Vet,7313.646045,-22.9832734,-43.2049026
+107,Woman,Maria,Torres Rasmusen Bernardes,"Rua Garcia D'Ávila, 57",Computer engineer,10192.5141,-22.9862279,-43.2093612
+108,Woman,Sophia,Brito Cassaro,"Rua Paul Redfern, 24",Civil engineer,11864.66298,-22.9848306,-43.2142818
+109,Woman,Amanda,Bellini Calmon,"Rua Garcia D'Ávila, 64",Photographer,3731.360209,-22.9862279,-43.2093612
+110,Woman,Maria Eduarda,Lono Justo,"Rua Teixeira de Melo, 50",Electronic engineer,13606.39743,-22.9866645,-43.1987363
+111,Man,Carlos,Couto Lovatti,"Rua Maria Quiteria, 107",Computer engineer,16655.19981,-22.9863847,-43.2072464
+112,Man,Gael,Nicoli Parente,"Av. Epitácio Pessoa, 780",Travel agent,3503.90142,-22.9806246,-43.2111012
+113,Woman,Maria Clara,Xavier Pazini Raposo,"Rua Garcia D'Ávila, 64",Private Driver,1758.339891,-22.9862279,-43.2093612
+114,Woman,Maria Julia,Gaspar Rosa,"Rua Gorceix, 28",Vet,11710.11434,-22.9811921,-43.2018481
+115,Man,Mateus,Rui,"Rua Paul Redfern, 56",Computer engineer,6070.691975,-22.9848306,-43.2142818
+116,Woman,Maitê,Novaes Cassaro Rosa,"Rua Teixeira de Melo, 81",Electronic engineer,13368.96123,-22.9866645,-43.1987363
+117,Man,Lucas,da Cunha Lovatti,"Av. Vieira Souto, 390",Nutritionist,7127.920672,-22.9860671,-43.205379099046006
+118,Man,Arthur,Novaes Praba,"Rua Barão de Jaguaripe, 413",Model,3255.32606,-22.9814293,-43.207694
+119,Woman,Valentina,Rosa Teixeira,"Rua Joana Angelica, 116",Lawyer,34492.21992,-22.9832734,-43.2049026
+120,Woman,Maria Julia,Sette,"Rua Barão da Torre, 591",Businessperson,36556.69018,-22.9831351,-43.2055487
+121,Man,Mateus,Parente Oliveira,"Rua Anibal de Mendonça, 99",Biomedic,2641.311674,-22.9828334,-43.2112609
+122,Woman,Renata,de Vasconcelos,"Rua Nascimento Silva, 475",Civil engineer,10346.50116,-22.9823219,-43.2004675
+123,Man,Lourenço,Nucci Martin Lessa,"Rua Canning, 68",Travel agent,3348.637709,-22.9848833,-43.1951764
+124,Man,Davi,Crespo Meirelles Urbino,"Rua Anibal de Mendonça, 51",Gamer,692.3068333,-22.9828334,-43.2112609
+125,Man,Lourenço,Rossi,"Rua Maria Quiteria, 95",Computer engineer,8921.22774,-22.9863847,-43.2072464
+126,Woman,Isabella,Justo,"Rua Gomes Carneiro, 124",Teacher,3200.412997,-22.9857245,-43.1965041
+127,Woman,Valentina,Pozzol Bravato,"Rua Visconde de Pirajá, 415",Electronic engineer,9024.970409,-22.9838381,-43.2135413
+128,Woman,Camila,Campos Bernardes,"Rua Gorceix, 11",Pharmaceutical,9124.11867,-22.9811921,-43.2018481
+129,Woman,Valentina,Jambo Nicoli,"Av. Henrique Dumont, 115",Model,5416.592222,-22.9808905,-43.2132616
+130,Woman,Maria Alice,Sette Cassaro,"Av. Vieira Souto, 438",Electronic engineer,16856.83753,-22.9859383,-43.2066866711933
+131,Man,José,Brunelli Amorim,"Rua Visconde de Pirajá, 192",Pharmaceutical,7244.198783,-22.9838381,-43.2135413
+132,Woman,Jéssica,Bassan,"Av. Henrique Dumont, 118",Writer,2963.033512,-22.9808905,-43.2132616
+133,Man,Gael,Meirelles,"Rua Prudente de Morais, 1474",Architect,6270.527161,-22.9856646,-43.1971658
+134,Man,Francisco,Lono Taylor,"Rua Garcia D'Ávila, 51",Researcher,6997.715622,-22.9862279,-43.2093612
+135,Man,Gael,Weiss Pereira,"Rua Gomes Carneiro, 80",Model,4651.980834,-22.9857245,-43.1965041
+136,Man,Lucas,Martin,"Rua Gomes Carneiro, 141",Biologist,2350.610547,-22.9857245,-43.1965041
+137,Woman,Maria Clara,Walker,"Av. Epitácio Pessoa, 944",Biomedic,2591.744218,-22.9806246,-43.2111012
+138,Woman,Maitê,Breda,"Rua Anibal de Mendonça, 51",Businessperson,25696.03457,-22.9828334,-43.2112609
+139,Man,Lourenço,Alves,"Av. Vieira Souto, 390",Nutritionist,5110.619635,-22.9860671,-43.205379099046006
+140,Woman,Beatriz,Perin Teixeira,"Rua Garcia D'Ávila, 150",Teacher,2421.266673,-22.9862279,-43.2093612
+141,Man,Antônio,Assis Torres,"Rua Barão de Jaguaripe, 332",Researcher,4667.670515,-22.9814293,-43.207694
+142,Man,Bruno,Oliveira Salles,"Rua Gomes Carneiro, 51",Model,5904.20438,-22.9857245,-43.1965041
+143,Woman,Sophia,Costa Martin,"Av. Epitácio Pessoa, 1084",Freelancer,8146.760031,-22.9806246,-43.2111012
+144,Woman,Fernanda,Werner,"Rua Teixeira de Melo, 50",Biomedic,2321.391284,-22.9866645,-43.1987363
+145,Woman,Isabella,Vilar Novaes,"Rua Joana Angelica, 116",Civil engineer,11761.59642,-22.9832734,-43.2049026
+146,Woman,Júlia,Mace Lessa,"Rua Gorceix, 14",Writer,1410.76205,-22.9811921,-43.2018481
+147,Man,Lourenço,Garcia Ivonete,"Rua Paul Redfern, 51",Self-employed,8029.125121,-22.9848306,-43.2142818
+148,Man,Pedro,Zacchi Pasti,"Rua Garcia D'Ávila, 113",Doctor,19557.91412,-22.9862279,-43.2093612
+149,Woman,Lorena,Toledo de Vasconcelos Assis,"Rua Alberto de Campos, 81",Biologist,2635.107787,-22.9811559,-43.2027176
+150,Man,Guilherme,Neto Toledo Perin,"Rua Joana Angelica, 308",Biomedic,2425.228184,-22.9832734,-43.2049026
+151,Woman,Laura,Bassan Salles,"Rua Barão de Jaguaripe, 413",Architect,8520.964663,-22.9814293,-43.207694
+152,Man,Ravi,Torres,"Rua Joana Angelica, 158",Computer engineer,9978.220981,-22.9832734,-43.2049026
+153,Woman,Maria Julia,da Cunha Ronoli Novaes,"Rua Joana Angelica, 116",Teacher,3355.604014,-22.9832734,-43.2049026
+154,Man,Bruno,Idalino,"Rua Gorceix, 11",Freelancer,2994.51431,-22.9811921,-43.2018481
+155,Woman,Alice,Almeida,"Rua Canning, 68",Counter,21056.48103,-22.9848833,-43.1951764
+156,Woman,Lorena,Azevedo Silva,"Rua Anibal de Mendonça, 35",Self-employed,7546.419926,-22.9828334,-43.2112609
+157,Woman,Renata,Jocome,"Rua Jangadeiros, 10",Computer engineer,12635.63149,-22.9848154,-43.1968866
+158,Man,Theo,Freire Pozzol Nicoli,"Rua Visconde de Pirajá, 121",Freelancer,6365.850405,-22.9838381,-43.2135413
+159,Man,Afonso,Lono Toledo,"Av. Henrique Dumont, 118",Computer engineer,14082.00952,-22.9808905,-43.2132616
+160,Man,Theo,Fabre Neto,"Rua Prudente de Morais, 1276",Singer,3523.939278,-22.9856277,-43.1994618
+161,Man,Pedro,Esteves Brito,"Rua Almirante Saddock de Sá, 105",Nutritionist,4571.375721,-22.9800821,-43.2012892
+162,Woman,Maria Alice,Torres Mello,"Rua Canning, 68",Photographer,1771.751064,-22.9848833,-43.1951764
+163,Woman,Juliana,Bispo Espinosa,"Rua Anibal de Mendonça, 203",Businessperson,33988.83782,-22.9828334,-43.2112609
+164,Woman,Beatriz,Ivonete Lage,"Rua Almirante Saddock de Sá, 101",Nutritionist,2574.925931,-22.9800821,-43.2012892
+165,Man,José,Oliveira Neto Teixeira,"Rua Visconde de Pirajá, 192",Researcher,6988.845248,-22.9838381,-43.2135413
+166,Man,Davi,Ulina Rosa,"Rua Gomes Carneiro, 58",Vet,11890.95823,-22.9857245,-43.1965041
+167,Man,Samuel,Sette Crespo,"Rua Garcia D'Ávila, 156",Self-employed,3791.941074,-22.9862279,-43.2093612
+168,Woman,Isabella,Pazini Torres,"Rua Jangadeiros, 40",Computer engineer,6272.630515,-22.9848154,-43.1968866
+169,Woman,Valentina,Novaes Costa,"Av. Henrique Dumont, 122",Self-employed,3057.179621,-22.9808905,-43.2132616
+170,Woman,Júlia,Ronoli Ulina Novaes,"Rua Prudente de Morais, 589",Doctor,6762.638169,-22.9856277,-43.1994618
+171,Woman,Renata,Eigenheer,"Rua Paul Redfern, 60",Youtuber,1960.916775,-22.9848306,-43.2142818
+172,Man,Pedro,Fabre,"Rua Nascimento Silva, 356",Gamer,1016.946168,-22.9823219,-43.2004675
+173,Man,Lourenço,Lage,"Rua Paul Redfern, 56",Doctor,22275.9333,-22.9848306,-43.2142818
+174,Woman,Maitê,Lessa Trevis Ulina,"Rua Maria Quiteria, 47",Vet,13736.26355,-22.9863847,-43.2072464
+175,Woman,Maria Clara,Costa Rosa,"Rua Prudente de Morais, 1276",Model,3343.376251,-22.9856277,-43.1994618
+176,Man,Samuel,Assis,"Av. Vieira Souto, 572",Photographer,1984.412025,-22.9869591,-43.1974684
+177,Woman,Sandra,Cassaro,"Rua Barão de Jaguaripe, 304",Biologist,1679.319088,-22.9814293,-43.207694
+178,Woman,Alice,Ronoli Martin,"Rua Nascimento Silva, 300",Designer,9185.808929,-22.9823219,-43.2004675
+179,Man,Leonardo,Vieira,"Rua Redentor, 125",Private Driver,1227.637375,-22.9822798,-43.2117176
+180,Woman,Laura,Costa Quirino,"Av. Epitácio Pessoa, 800",Counter,7935.817982,-22.9806246,-43.2111012
+181,Woman,Maitê,Vieira Abreu,"Rua Prudente de Morais, 1474",Civil engineer,6594.392886,-22.9856646,-43.1971658
+182,Man,José,de Oliveira Ivonete,"Rua Gorceix, 11",Doctor,11032.50565,-22.9811921,-43.2018481
+183,Woman,Júlia,Lage Lessa,"Rua Jangadeiros, 14",Electrical engineer,14385.23731,-22.9848154,-43.1968866
+184,Man,Gael,de Vasconcelos Crespo,"Rua Gorceix, 28",Florist,2890.019496,-22.9811921,-43.2018481
+185,Woman,Beatriz,Klein Lessa,"Rua Teixeira de Melo, 50",Self-employed,2336.446958,-22.9866645,-43.1987363
+186,Man,Afonso,Justo Silva,"Rua Gomes Carneiro, 124",Electrical engineer,13567.76005,-22.9857245,-43.1965041
+187,Man,Bernardo,Ivonete,"Rua Alberto de Campos, 81",Travel agent,2327.297533,-22.9811559,-43.2027176
+188,Man,Lourenço,Jocome Parente Weiss,"Rua Jangadeiros, 40",Nutritionist,4439.3729,-22.9848154,-43.1968866
+189,Man,Bernardo,Martins,"Rua Joana Angelica, 221",Self-employed,2682.859513,-22.9832734,-43.2049026
+190,Woman,Laura,Mello,"Rua Visconde de Pirajá, 520",Researcher,5652.430927,-22.9838381,-43.2135413
+191,Man,Theo,Assis Breda,"Rua Paul Redfern, 51",Writer,2110.265334,-22.9848306,-43.2142818
+192,Woman,Maria Clara,Pasti,"Rua Joana Angelica, 308",Lawyer,16686.78848,-22.9832734,-43.2049026
+193,Woman,Isabella,Martins Pereira,"Rua Nascimento Silva, 356",Youtuber,1805.824006,-22.9823219,-43.2004675
+194,Man,Pedro,Justo Avila,"Rua Barão de Jaguaripe, 304",Writer,2182.967555,-22.9814293,-43.207694
+195,Man,João Miguel,Garcia Pasti,"Rua Gomes Carneiro, 124",Doctor,23177.68758,-22.9857245,-43.1965041
+196,Woman,Juliana,Dalto,"Rua Paul Redfern, 60",Private Driver,1900.489108,-22.9848306,-43.2142818
+197,Man,Ravi,Crespo Rossi Zoppi,"Rua Teixeira de Melo, 50",Teacher,2313.140787,-22.9866645,-43.1987363
+198,Woman,Maria Julia,Pereira Pasti,"Rua Nascimento Silva, 447",Electronic engineer,6629.363337,-22.9823219,-43.2004675
+199,Woman,Maria Clara,Ormo,"Av. Epitácio Pessoa, 780",Doctor,22647.5963,-22.9806246,-43.2111012
+200,Woman,Isabella,Lessa Abreu,"Rua Garcia D'Ávila, 156",Biomedic,2805.538744,-22.9862279,-43.2093612
+201,Woman,Fernanda,de Oliveira Calil,"Rua Jangadeiros, 10",Doctor,17439.30947,-22.9848154,-43.1968866
+202,Woman,Sandra,Almeida Lessa,"Rua Nascimento Silva, 300",Electronic engineer,6076.331416,-22.9823219,-43.2004675
+203,Man,Davi,Crespo,"Rua Visconde de Pirajá, 433",Electrical engineer,6127.616047,-22.9838381,-43.2135413
+204,Man,Antônio,Gaspar,"Rua Alberto de Campos, 88",Counter,23806.67004,-22.9811559,-43.2027176
+205,Man,Francisco,Fabre Nucci,"Rua Jangadeiros, 40",Gamer,1147.657205,-22.9848154,-43.1968866
+206,Man,Lourenço,Mello Toledo,"Rua Redentor, 313",Private Driver,1978.500037,-22.9822798,-43.2117176
+207,Woman,Júlia,Gaspar,"Av. Epitácio Pessoa, 730",Computer engineer,18368.95897,-22.9806246,-43.2111012
+208,Woman,Maitê,Candido,"Rua Redentor, 313",Gamer,877.819008,-22.9822798,-43.2117176
+209,Woman,Helena,Ivonete,"Rua Maria Quiteria, 107",Freelancer,10954.40687,-22.9863847,-43.2072464
+210,Man,Mateus,Mello Walker,"Rua Barão de Jaguaripe, 332",Youtuber,1254.438789,-22.9814293,-43.207694
+211,Woman,Camila,Bispo Johansen,"Av. Epitácio Pessoa, 698",Nutritionist,4113.636813,-22.9806246,-43.2111012
+212,Man,Samuel,Eigenheer de Vasconcelos,"Rua Jangadeiros, 33",Journalist,7411.03769,-22.9848154,-43.1968866
+213,Woman,Amanda,Ulina Amorim,"Rua Barão de Jaguaripe, 332",Designer,6800.328206,-22.9814293,-43.207694
+214,Woman,Lorena,Lage Walker,"Rua Barão da Torre, 334",Civil engineer,10693.27612,-22.9831351,-43.2055487
+215,Man,Gabriel,Del Puppo Praba Almeida,"Rua Jangadeiros, 10",Youtuber,1806.077759,-22.9848154,-43.1968866
+216,Woman,Maria Eduarda,Rui,"Rua Paul Redfern, 24",Journalist,9961.039469,-22.9848306,-43.2142818
+217,Man,Heitor,Weiss Klein,"Rua Maria Quiteria, 51",Pharmaceutical,7200.629755,-22.9863847,-43.2072464
+218,Woman,Laura,Ramos Meirelles,"Rua Joana Angelica, 116",Researcher,6864.646599,-22.9832734,-43.2049026
+219,Man,Lourenço,Werner Costa Muniz,"Rua Canning, 68",Journalist,8915.937483,-22.9848833,-43.1951764
+220,Man,Ravi,Praba,"Rua Maria Quiteria, 107",Self-employed,2541.544434,-22.9863847,-43.2072464
+221,Woman,Juliana,Pozzol Alves,"Rua Anibal de Mendonça, 134",Self-employed,5432.870271,-22.9828334,-43.2112609
+222,Woman,Júlia,Vilar Martin,"Av. Vieira Souto, 438",Counter,14706.91926,-22.9859383,-43.2066866711933
+223,Man,José,Toledo Klein,"Rua Alberto de Campos, 88",Researcher,3982.902486,-22.9811559,-43.2027176
+224,Man,Lucas,Vilar,"Rua Teixeira de Melo, 50",Architect,5154.890794,-22.9866645,-43.1987363
+225,Woman,Renata,da Cunha Garcia,"Rua Teixeira de Melo, 26",Electrical engineer,10520.21115,-22.9866645,-43.1987363
+226,Man,Pedro,Ronoli,"Rua Garcia D'Ávila, 57",Singer,2796.914022,-22.9862279,-43.2093612
+227,Woman,Beatriz,Justo Lono,"Rua Paul Redfern, 19",Vet,13252.38943,-22.9848306,-43.2142818
+228,Woman,Beatriz,Valloto de Oliveira,"Rua Garcia D'Ávila, 113",Designer,8932.348101,-22.9862279,-43.2093612
+229,Man,Leonardo,Weiss,"Av. Henrique Dumont, 115",Researcher,8555.233777,-22.9808905,-43.2132616
+230,Woman,Alice,Calil Pelegrine,"Rua Maria Quiteria, 91",Vet,5720.660854,-22.9863847,-43.2072464
+231,Woman,Alice,Abreu Eigenheer Nucci,"Rua Garcia D'Ávila, 65",Researcher,4124.603829,-22.9862279,-43.2093612
+232,Man,Leonardo,Raposo Jocome,"Rua Gomes Carneiro, 86",Architect,5201.851447,-22.9857245,-43.1965041
+233,Man,Ravi,Klein,"Rua Anibal de Mendonça, 100",Private Driver,1929.821254,-22.9828334,-43.2112609
+234,Man,Guilherme,de Oliveira,"Rua Visconde de Pirajá, 339",Electrical engineer,6218.810753,-22.98453985,-43.205179424521226
+235,Woman,Bruna,Esteves,"Av. Epitácio Pessoa, 1038",Freelancer,4465.313191,-22.9806246,-43.2111012
+236,Man,Lourenço,Olsen Parente Brito,"Rua Joana Angelica, 192",Teacher,2405.662612,-22.9832734,-43.2049026
+237,Woman,Maria Alice,Zanoni Cassaro,"Rua Barão da Torre, 500",Writer,2058.932426,-22.9831351,-43.2055487
+238,Woman,Maria Cecília,Maia Costa,"Rua Maria Quiteria, 137",Model,5663.374481,-22.9863847,-43.2072464
+239,Woman,Maria Alice,Bassan,"Av. Henrique Dumont, 125",Nutritionist,6288.493622,-22.9808905,-43.2132616
+240,Man,Miguel,de Oliveira Mace,"Rua Paul Redfern, 24",Self-employed,5254.245085,-22.9848306,-43.2142818
+241,Man,Carlos,Trevis Nelson Azevedo,"Rua Barão de Jaguaripe, 175",Biomedic,2470.055435,-22.9814293,-43.207694
+242,Woman,Alice,Brunelli Sandrini,"Rua Barão da Torre, 665",Vet,6370.444601,-22.9831351,-43.2055487
+243,Man,Bernardo,Muniz,"Rua Alberto de Campos, 195",Businessperson,24361.4195,-22.9811559,-43.2027176
+244,Man,José,Mozer Brunelli,"Rua Prudente de Morais, 336",Freelancer,12947.61903,-22.9856277,-43.1994618
+245,Man,Guilherme,Lapa Neto,"Av. Henrique Dumont, 115",Counter,18523.31925,-22.9808905,-43.2132616
+246,Man,Francisco,Zoppi Pazini Valloto,"Av. Vieira Souto, 572",Nutritionist,6677.305201,-22.9869591,-43.1974684
+247,Man,Bruno,Sandrini Lono,"Rua Garcia D'Ávila, 51",Travel agent,2843.506112,-22.9862279,-43.2093612
+248,Woman,Amanda,Quirino Cassaro,"Rua Teixeira de Melo, 23",Model,3376.326317,-22.9866645,-43.1987363
+249,Woman,Camila,Avila Dalto,"Rua Garcia D'Ávila, 64",Self-employed,3068.197747,-22.9862279,-43.2093612
+250,Man,João Miguel,Amorim,"Av. Vieira Souto, 216",Nutritionist,2665.73272,-22.986284949999998,-43.200170563047806
+251,Man,Samuel,Azevedo Idalino,"Rua Paul Redfern, 27",Writer,1372.818077,-22.9848306,-43.2142818
+252,Man,Ravi,Cassaro Tereza,"Rua Anibal de Mendonça, 203",Gamer,813.436702,-22.9828334,-43.2112609
+253,Woman,Heloísa,Sá di Barrel,"Av. Epitácio Pessoa, 800",Electronic engineer,19118.97414,-22.9806246,-43.2111012
+254,Man,Miguel,Ventura Trevis,"Rua Nascimento Silva, 447",Vet,12187.90227,-22.9823219,-43.2004675
+255,Woman,Maitê,Freitas,"Rua Paul Redfern, 27",Model,3526.339798,-22.9848306,-43.2142818
+256,Man,Heitor,Machado Machado,"Rua Barão de Jaguaripe, 169",Biologist,1806.148749,-22.9814293,-43.207694
+257,Woman,Isabella,Gaspar Idalino,"Rua Alberto de Campos, 65",Biologist,2436.569383,-22.9811559,-43.2027176
+258,Woman,Juliana,Zanoni,"Rua Alberto de Campos, 65",Architect,11370.9527,-22.9811559,-43.2027176
+259,Man,Miguel,Pazini Rui,"Av. Epitácio Pessoa, 730",Designer,8846.904612,-22.9806246,-43.2111012
+260,Woman,Maria Cecília,Breda,"Rua Alberto de Campos, 191",Youtuber,2635.194866,-22.9811559,-43.2027176
+261,Man,Ravi,Praba,"Rua Barão da Torre, 501",Photographer,1544.863192,-22.9831351,-43.2055487
+262,Woman,Heloísa,Espinosa,"Av. Epitácio Pessoa, 730",Model,3668.17076,-22.9806246,-43.2111012
+263,Woman,Renata,Couto,"Rua Garcia D'Ávila, 65",Gamer,562.314607,-22.9862279,-43.2093612
+264,Man,Francisco,Pozzol,"Rua Almirante Saddock de Sá, 360",Pharmaceutical,7386.572792,-22.9800821,-43.2012892
+265,Woman,Renata,de Oliveira Muniz Mozer,"Rua Gorceix, 28",Civil engineer,11417.41168,-22.9811921,-43.2018481
+266,Man,Francisco,Bispo Mello,"Rua Gomes Carneiro, 86",Nurse,2296.054234,-22.9857245,-43.1965041
+267,Man,Isaac,Mace,"Rua Nascimento Silva, 447",Counter,22073.49635,-22.9823219,-43.2004675
+268,Woman,Juliana,Mozer Oliveira Gaspar,"Rua Prudente de Morais, 1276",Model,5096.848065,-22.9856277,-43.1994618
+269,Woman,Lorena,Muniz Idalino,"Rua Gorceix, 28",Travel agent,2714.623059,-22.9811921,-43.2018481
+270,Man,Guilherme,Meirelles Couto Amorim,"Rua Maria Quiteria, 91",Civil engineer,7809.966194,-22.9863847,-43.2072464
+271,Man,João Miguel,Brunelli Sagres,"Rua Alberto de Campos, 71",Civil engineer,8437.851102,-22.9811559,-43.2027176
+272,Man,Lucas,Oliveira Jambo,"Rua Maria Quiteria, 137",Businessperson,28743.00179,-22.9863847,-43.2072464
+273,Man,Carlos,Xavier Zuca,"Rua Prudente de Morais, 336",Researcher,6276.201655,-22.9856277,-43.1994618
+274,Woman,Maria Julia,Neto Bravato Bispo,"Rua Barão de Jaguaripe, 304",Doctor,23330.84743,-22.9814293,-43.207694
+275,Woman,Maria Alice,Freire Zanoni Rasmusen,"Rua Barão de Jaguaripe, 225",Writer,1020.257365,-22.9814293,-43.207694
+276,Woman,Maria Eduarda,Martins Ulina,"Rua Gorceix, 11",Nurse,3507.411987,-22.9811921,-43.2018481
+277,Woman,Maria Clara,Sá,"Rua Barão da Torre, 665",Gamer,1211.443144,-22.9831351,-43.2055487
+278,Man,Davi,Amorim di Barrel,"Rua Anibal de Mendonça, 164",Model,3054.946539,-22.9828334,-43.2112609
+279,Woman,Lorena,Alves Azevedo,"Av. Epitácio Pessoa, 780",Journalist,7317.289512,-22.9806246,-43.2111012
+280,Woman,Helena,Rui,"Rua Prudente de Morais, 790",Model,5604.477486,-22.9856277,-43.1994618
+281,Woman,Maria Julia,Neto Garcia Rui,"Av. Henrique Dumont, 174",Electrical engineer,14396.76104,-22.9808905,-43.2132616
+282,Woman,Maria Cecília,Gaspar,"Rua Redentor, 125",Singer,4417.406479,-22.9822798,-43.2117176
+283,Woman,Fernanda,Abreu Werner,"Rua Prudente de Morais, 1276",Counter,14316.47305,-22.9856277,-43.1994618
+284,Woman,Maria Eduarda,Justo Nelson,"Rua Paul Redfern, 56",Singer,3292.992277,-22.9848306,-43.2142818
+285,Man,Leonardo,Machado Idalino,"Rua Anibal de Mendonça, 35",Photographer,4495.096651,-22.9828334,-43.2112609
+286,Woman,Maria Julia,Johansen Amorim,"Rua Nascimento Silva, 250",Lawyer,34669.07962,-22.9823219,-43.2004675
+287,Man,João Miguel,Ramos,"Rua Visconde de Pirajá, 415",Travel agent,2770.675162,-22.9838381,-43.2135413
+288,Woman,Alice,Machado,"Av. Vieira Souto, 288",Private Driver,1642.20682,-22.98626,-43.20228681969405
+289,Man,Samuel,Cassaro Barbosa,"Av. Henrique Dumont, 122",Nutritionist,3067.287051,-22.9808905,-43.2132616
+290,Woman,Camila,Nelson,"Rua Barão da Torre, 501",Self-employed,4965.571818,-22.9831351,-43.2055487
+291,Woman,Beatriz,Idalino,"Av. Epitácio Pessoa, 1038",Researcher,3586.035811,-22.9806246,-43.2111012
+292,Woman,Jéssica,Jambo Mozer,"Rua Garcia D'Ávila, 65",Photographer,1740.446388,-22.9862279,-43.2093612
+293,Man,Isaac,Pozzol Lessa Ramos,"Rua Canning, 33",Writer,1613.613087,-22.9848833,-43.1951764
+294,Woman,Jéssica,Tereza Calil,"Rua Prudente de Morais, 589",Gamer,617.7942753,-22.9856277,-43.1994618
+295,Woman,Lorena,Conte,"Rua Canning, 38",Designer,4884.563786,-22.9848833,-43.1951764
+296,Man,Ravi,Toledo,"Av. Epitácio Pessoa, 1084",Electronic engineer,8063.624444,-22.9806246,-43.2111012
+297,Woman,Lorena,Lapa,"Rua Jangadeiros, 33",Biomedic,3230.728493,-22.9848154,-43.1968866
+298,Man,João Miguel,Oliveira Sette Amorim,"Rua Gorceix, 28",Private Driver,1376.405472,-22.9811921,-43.2018481
+299,Man,João,Martins Torres,"Rua Garcia D'Ávila, 65",Lawyer,8751.536547,-22.9862279,-43.2093612
+300,Woman,Sophia,Rui,"Rua Prudente de Morais, 985",Biomedic,3313.329494,-22.9856277,-43.1994618
+301,Man,Davi,Campos,"Rua Prudente de Morais, 1474",Lawyer,33823.72726,-22.9856646,-43.1971658
+302,Woman,Maria Clara,Torres Zacchi,"Rua Visconde de Pirajá, 699",Journalist,11562.99361,-22.9838381,-43.2135413
+303,Man,Ravi,Werner Cassaro,"Rua Nascimento Silva, 250",Gamer,656.4583504,-22.9823219,-43.2004675
+304,Woman,Amanda,Calil,"Rua Nascimento Silva, 395",Gamer,716.0905324,-22.9823219,-43.2004675
+305,Woman,Amanda,Machado Praba,"Rua Redentor, 26",Lawyer,20201.60593,-22.9822798,-43.2117176
+306,Man,Bernardo,Rossi,"Rua Anibal de Mendonça, 203",Nutritionist,2697.495988,-22.9828334,-43.2112609
+307,Man,Theo,Bernardes,"Rua Nascimento Silva, 250",Vet,12889.01429,-22.9823219,-43.2004675
+308,Woman,Isabella,Sandrini Kruger,"Rua Alberto de Campos, 195",Designer,3456.311092,-22.9811559,-43.2027176
+309,Man,Bruno,Martins Parente,"Rua Nascimento Silva, 356",Computer engineer,11832.02884,-22.9823219,-43.2004675
+310,Man,Samuel,Pazini Assis,"Rua Gorceix, 28",Lawyer,11948.58744,-22.9811921,-43.2018481
+311,Woman,Renata,de Vasconcelos Oliveira Brunelli,"Rua Gorceix, 14",Vet,8083.337102,-22.9811921,-43.2018481
+312,Woman,Heloísa,Zuca Oliveira,"Rua Redentor, 19",Youtuber,2527.750409,-22.9822798,-43.2117176
+313,Man,Gael,Machado Crespo,"Rua Gorceix, 11",Photographer,3898.635607,-22.9811921,-43.2018481
+314,Man,Theo,Fabre Quirino de Oliveira,"Rua Anibal de Mendonça, 40",Biologist,2321.059456,-22.9828334,-43.2112609
+315,Woman,Júlia,Costa,"Rua Barão da Torre, 334",Computer engineer,11809.59476,-22.9831351,-43.2055487
+316,Woman,Maria Julia,Werner,"Rua Canning, 38",Counter,22044.79417,-22.9848833,-43.1951764
+317,Woman,Lorena,Lapa,"Rua Joana Angelica, 116",Nutritionist,2531.708786,-22.9832734,-43.2049026
+318,Man,Ravi,Alves Johansen,"Av. Vieira Souto, 216",Youtuber,2847.145495,-22.986284949999998,-43.200170563047806
+319,Woman,Lorena,Ronoli Praba,"Rua Barão de Jaguaripe, 175",Civil engineer,13346.96181,-22.9814293,-43.207694
+320,Man,Davi,Crespo Zardo,"Rua Barão de Jaguaripe, 304",Lawyer,16968.03748,-22.9814293,-43.207694
+321,Man,Gael,Campos Barbosa,"Rua Anibal de Mendonça, 35",Gamer,1184.976991,-22.9828334,-43.2112609
+322,Man,Bernardo,Klein Valle,"Rua Gomes Carneiro, 80",Lawyer,27398.63478,-22.9857245,-43.1965041
+323,Man,Pedro,Amorim Rosa,"Rua Redentor, 63",Architect,10776.04509,-22.9822798,-43.2117176
+324,Woman,Heloísa,Torres,"Rua Alberto de Campos, 81",Businessperson,21537.14388,-22.9811559,-43.2027176
+325,Man,João,Nelson,"Rua Joana Angelica, 192",Lawyer,27674.91381,-22.9832734,-43.2049026
+326,Woman,Valentina,Gaspar,"Rua Gorceix, 11",Youtuber,815.3135408,-22.9811921,-43.2018481
+327,Man,Heitor,Bernardes Mace,"Rua Teixeira de Melo, 23",Private Driver,1393.562571,-22.9866645,-43.1987363
+328,Man,Antônio,Novaes Calmon,"Rua Barão de Jaguaripe, 332",Vet,11379.44505,-22.9814293,-43.207694
+329,Woman,Maria Eduarda,Amorim,"Av. Vieira Souto, 438",Writer,1476.801569,-22.9859383,-43.2066866711933
+330,Man,Mateus,Zoppi Mace Muniz,"Rua Gorceix, 28",Biologist,2547.791135,-22.9811921,-43.2018481
+331,Woman,Maria Eduarda,Trevis Pasti,"Rua Canning, 6",Lawyer,17630.86814,-22.9848833,-43.1951764
+332,Man,Carlos,Martins Bellini Raposo,"Rua Barão da Torre, 591",Model,5595.269978,-22.9831351,-43.2055487
+333,Woman,Beatriz,Mozer,"Rua Canning, 16",Researcher,5677.144919,-22.9848833,-43.1951764
+334,Man,Gabriel,Klein Lans,"Rua Redentor, 63",Lawyer,11206.78509,-22.9822798,-43.2117176
+335,Man,Guilherme,Candido Perin,"Rua Gomes Carneiro, 80",Lawyer,32364.80793,-22.9857245,-43.1965041
+336,Woman,Laura,Trevis Calil,"Av. Vieira Souto, 438",Doctor,18668.97325,-22.9859383,-43.2066866711933
+337,Man,Carlos,Rasmusen,"Av. Vieira Souto, 572",Electronic engineer,12671.76481,-22.9869591,-43.1974684
+338,Woman,Bruna,Ventura,"Rua Almirante Saddock de Sá, 101",Gamer,956.8033463,-22.9800821,-43.2012892
+339,Woman,Fernanda,Oliveira Lans,"Rua Visconde de Pirajá, 520",Writer,1654.625366,-22.9838381,-43.2135413
+340,Woman,Juliana,Nunes Candido Justo,"Rua Maria Quiteria, 47",Designer,8640.863855,-22.9863847,-43.2072464
+341,Woman,Júlia,Cassaro,"Rua Redentor, 313",Freelancer,13380.18132,-22.9822798,-43.2117176
+342,Woman,Maria Alice,Sandrini Lono,"Rua Paul Redfern, 13",Nutritionist,4578.549849,-22.9848306,-43.2142818
+343,Woman,Alice,Costa,"Rua Alberto de Campos, 71",Businessperson,32037.92956,-22.9811559,-43.2027176
+344,Man,Theo,Perin Avila,"Av. Epitácio Pessoa, 800",Pharmaceutical,3768.724381,-22.9806246,-43.2111012
+345,Woman,Maria Alice,Nunes Herzog,"Av. Henrique Dumont, 118",Freelancer,9197.334821,-22.9808905,-43.2132616
+346,Man,Theo,Oliveira,"Rua Gomes Carneiro, 124",Computer engineer,6840.407198,-22.9857245,-43.1965041
+347,Woman,Beatriz,Lage Alves,"Rua Almirante Saddock de Sá, 2",Self-employed,5693.029927,-22.9800821,-43.2012892
+348,Man,Ravi,de Oliveira Del Puppo,"Rua Redentor, 125",Counter,18004.16826,-22.9822798,-43.2117176
+349,Man,José,Valloto,"Rua Gorceix, 30",Electrical engineer,12663.54208,-22.9811921,-43.2018481
+350,Woman,Beatriz,de Oliveira Olsen,"Rua Gomes Carneiro, 124",Architect,6975.465801,-22.9857245,-43.1965041
+351,Man,Leonardo,Justo Salles,"Rua Gorceix, 28",Florist,1005.934859,-22.9811921,-43.2018481
+352,Man,Francisco,Freire,"Rua Canning, 31",Nutritionist,4092.580251,-22.9848833,-43.1951764
+353,Woman,Sandra,Zacchi Parente,"Av. Vieira Souto, 216",Travel agent,2072.405752,-22.986284949999998,-43.200170563047806
+354,Man,José,Machado Ventura,"Rua Alberto de Campos, 100",Nurse,2970.650165,-22.9811559,-43.2027176
+355,Woman,Juliana,Freire Bellini,"Rua Anibal de Mendonça, 40",Lawyer,11256.56447,-22.9828334,-43.2112609
+356,Woman,Sandra,Muniz Bassan Valle,"Rua Nascimento Silva, 395",Photographer,4057.205553,-22.9823219,-43.2004675
+357,Man,Isaac,Nunes,"Rua Garcia D'Ávila, 51",Pharmaceutical,6853.709102,-22.9862279,-43.2093612
+358,Man,João,Cassaro Rosa Rui,"Rua Maria Quiteria, 91",Teacher,2166.347581,-22.9863847,-43.2072464
+359,Man,Gael,Sá Urbino,"Rua Alberto de Campos, 71",Florist,1063.839371,-22.9811559,-43.2027176
+360,Woman,Maria,Dalto Zuca,"Av. Epitácio Pessoa, 1234",Self-employed,6452.015781,-22.9806246,-43.2111012
+361,Man,Lucas,Lozano,"Rua Nascimento Silva, 395",Pharmaceutical,10135.93109,-22.9823219,-43.2004675
+362,Man,João Miguel,Esteves Silva Nelson,"Rua Canning, 19",Architect,5709.353374,-22.9848833,-43.1951764
+363,Man,Isaac,Nucci Sodre,"Rua Gomes Carneiro, 124",Pharmaceutical,9727.396093,-22.9857245,-43.1965041
+364,Woman,Maria,da Cunha Bassan,"Rua Paul Redfern, 56",Designer,7434.019169,-22.9848306,-43.2142818
+365,Man,João,Lage Sette Gaspar,"Rua Prudente de Morais, 985",Counter,14764.89412,-22.9856277,-43.1994618
+366,Woman,Maria Eduarda,Justo Del Puppo,"Rua Anibal de Mendonça, 203",Singer,2045.510178,-22.9828334,-43.2112609
+367,Woman,Heloísa,Rosa,"Rua Barão de Jaguaripe, 413",Model,4919.30289,-22.9814293,-43.207694
+368,Woman,Sandra,Crespo,"Rua Maria Quiteria, 91",Gamer,555.4723179,-22.9863847,-43.2072464
+369,Woman,Laura,Rui Pasti Candido,"Rua Teixeira de Melo, 26",Researcher,6892.175955,-22.9866645,-43.1987363
+370,Woman,Maria Cecília,Kruger Weiss,"Rua Almirante Saddock de Sá, 101",Freelancer,4072.579573,-22.9800821,-43.2012892
+371,Man,Heitor,Taylor Meirelles Rosa,"Rua Anibal de Mendonça, 134",Counter,6607.141669,-22.9828334,-43.2112609
+372,Man,Gael,Vieira,"Rua Anibal de Mendonça, 99",Designer,8128.381713,-22.9828334,-43.2112609
+373,Man,Isaac,Brito da Cunha,"Rua Canning, 19",Teacher,3375.982059,-22.9848833,-43.1951764
+374,Man,Isaac,Valloto,"Rua Alberto de Campos, 71",Nutritionist,3889.88663,-22.9811559,-43.2027176
+375,Man,João,Sandrini Mace,"Rua Barão de Jaguaripe, 332",Singer,3504.862291,-22.9814293,-43.207694
+376,Woman,Jéssica,Mace Assis,"Av. Vieira Souto, 220",Teacher,3664.679442,-22.98628025,-43.200278482705336
+377,Woman,Bruna,Esteves Zuca,"Rua Visconde de Pirajá, 192",Self-employed,4833.687771,-22.9838381,-43.2135413
+378,Man,Antônio,Avila,"Rua Nascimento Silva, 276",Businessperson,39614.40611,-22.9823219,-43.2004675
+379,Woman,Valentina,Mozer Sá,"Rua Redentor, 26",Civil engineer,5181.685232,-22.9822798,-43.2117176
+380,Woman,Valentina,Mello Bravato Avila,"Rua Joana Angelica, 116",Doctor,16054.28661,-22.9832734,-43.2049026
+381,Man,Gabriel,Martin,"Rua Joana Angelica, 158",Self-employed,8803.092817,-22.9832734,-43.2049026
+382,Man,Gabriel,Zoppi,"Rua Garcia D'Ávila, 64",Singer,2735.642727,-22.9862279,-43.2093612
+383,Man,Leonardo,Zardo Ivonete,"Rua Prudente de Morais, 336",Nurse,2048.216749,-22.9856277,-43.1994618
+384,Man,Mateus,Vieira,"Rua Nascimento Silva, 356",Researcher,3750.721214,-22.9823219,-43.2004675
+385,Man,Heitor,Torres Avila,"Rua Almirante Saddock de Sá, 38",Researcher,7256.909588,-22.9800821,-43.2012892
+386,Man,Ravi,Avila Mozer,"Rua Gorceix, 28",Teacher,3188.774444,-22.9811921,-43.2018481
+387,Man,Heitor,Azevedo Klein,"Rua Garcia D'Ávila, 150",Writer,2936.010401,-22.9862279,-43.2093612
+388,Woman,Maitê,Ronoli,"Av. Henrique Dumont, 122",Vet,5771.580351,-22.9808905,-43.2132616
+389,Man,Afonso,Zoppi Costa Del Puppo,"Rua Paul Redfern, 13",Computer engineer,7053.474622,-22.9848306,-43.2142818
+390,Man,João,Bellini Brunelli,"Rua Teixeira de Melo, 50",Researcher,5029.707877,-22.9866645,-43.1987363
+391,Woman,Sandra,Rasmusen Ramos,"Rua Nascimento Silva, 276",Private Driver,1440.469745,-22.9823219,-43.2004675
+392,Man,Theo,Silva Rasmusen Lovatti,"Av. Henrique Dumont, 118",Photographer,2773.931726,-22.9808905,-43.2132616
+393,Woman,Fernanda,Lage Bernardes Nicoli,"Rua Garcia D'Ávila, 51",Researcher,3454.800585,-22.9862279,-43.2093612
+394,Woman,Juliana,Amorim Pozzol,"Rua Alberto de Campos, 100",Teacher,3496.350147,-22.9811559,-43.2027176
+395,Man,Heitor,Teixeira Fabre Kiefer,"Rua Prudente de Morais, 589",Doctor,12096.40318,-22.9856277,-43.1994618
+396,Man,Ravi,Ormo,"Rua Prudente de Morais, 790",Model,4984.120089,-22.9856277,-43.1994618
+397,Man,Leonardo,Rasmusen,"Rua Barão de Jaguaripe, 332",Nurse,2282.186861,-22.9814293,-43.207694
+398,Man,Gael,Zoppi Lono Breda,"Av. Vieira Souto, 288",Designer,8455.234896,-22.98626,-43.20228681969405
+399,Man,Arthur,Neto,"Rua Gorceix, 28",Architect,11170.05735,-22.9811921,-43.2018481
+400,Woman,Helena,Esteves Dalto Calil,"Rua Joana Angelica, 116",Freelancer,11271.12349,-22.9832734,-43.2049026
